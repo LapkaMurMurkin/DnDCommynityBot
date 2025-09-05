@@ -1,5 +1,32 @@
 {
     "1412813501834989713": {
-        "262953325320863745": 36
+        "262953325320863745": {
+            "serverPoints": 12,
+            "roll20Name": "Sosal",
+            "characterSlots": 4,
+            "characters": [
+                "Sosal"
+            ],
+            "content": {
+                "race": [
+                    "[RAssssa](<https://dnd.su/homebrew/class/403-warlord/>)",
+                    "[фыв](<фыв>)"
+                ],
+                "class": [
+                    "[Сосатель](<https://dnd.su/race/81-human/>)"
+                ],
+                "spell": [
+                    "[Военачальник](<https://dnd.su/homebrew/class/403-warlord/>)"
+                ]
+            }
+        },
+        "1412810464429080627": {
+            "serverPoints": 0,
+            "roll20Name": "[Empty]",
+            "characterSlots": 3,
+            "characters": [
+                "Sosal"
+            ]
+        }
     }
 }
