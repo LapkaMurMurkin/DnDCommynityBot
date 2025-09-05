@@ -4,9 +4,12 @@ from commands.commands import setupCommands
 from dotenv import load_dotenv
 import os
 
+from keepAlive import keepAlive #NEW
+
 load_dotenv()
 TOKEN = os.getenv("DISCORD_TOKEN")
 
+keepAlive() #NEW
 
 class MyBot(commands.Bot):
     def __init__(self):
